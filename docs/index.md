@@ -9,3 +9,8 @@ Interesting applications of wavelets crashing onto new shores
     a. From the community of physicists
     b. From the community of mathematicians
     
+
+Superfast Wavelet Transform Using Quantics-TT
+Approximation. I. Application to Haar Wavelets
+
+A Hybrid Alternating Least Squares--TT-Cross Algorithm for Parametric PDEs
