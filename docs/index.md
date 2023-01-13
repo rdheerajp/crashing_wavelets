@@ -1,5 +1,3 @@
-# Crashing Wavelets
-
 ## A repository to supplement the presentation on relationship between wavelets and tensor networks.
 
 **DISCLAIMER** 
